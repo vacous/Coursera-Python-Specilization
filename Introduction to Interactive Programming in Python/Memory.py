@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 28 23:18:14 2017
-
-@author: Administrator
-"""
-
 # implementation of card game - Memory
 
 import simplegui
